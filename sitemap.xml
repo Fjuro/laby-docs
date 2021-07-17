@@ -41,6 +41,26 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fjuro.github.io/laby-docs/obchod/chyba-platby/</loc>
+         <lastmod>2021-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fjuro.github.io/laby-docs/obchod/nefunkcni-promokod/</loc>
+         <lastmod>2021-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fjuro.github.io/laby-docs/obchod/neobdrzen-produkt/</loc>
+         <lastmod>2021-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fjuro.github.io/laby-docs/obchod/oblibeny-emote/</loc>
+         <lastmod>2021-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fjuro.github.io/laby-docs/obecne/chyby-navrhy/</loc>
          <lastmod>2021-07-17</lastmod>
          <changefreq>daily</changefreq>
@@ -67,6 +87,11 @@
     </url>
     <url>
          <loc>https://fjuro.github.io/laby-docs/obecne/tym/</loc>
+         <lastmod>2021-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fjuro.github.io/laby-docs/ostatni/replaymod/</loc>
          <lastmod>2021-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
